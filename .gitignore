@@ -1,0 +1,8 @@
+venv
+tmp
+*.idea
+*.db
+*.log
+*.txt
+data/config.json
+data/
